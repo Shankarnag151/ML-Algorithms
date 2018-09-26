@@ -1,0 +1,36 @@
+
+Pre-Requirements to run this file:-
+
+-------------------------------------------
+INstall Py packages:
+-------------------------------------------
+numpy,
+matplotlib,
+
+Ipython,
+
+tensorflow,
+keras
+
+--------------------------------------------
+
+Suppose, this file is not runned means,
+
+you Can try it on server by the following link:-
+
+
+https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/pix2pix/pix2pix_eager.ipynb#scrollTo=s4J97oeyejZ6
+
+
+-------------------------------------------------------------------------------------------------------
+
+After opening this link we need connect to the Notebook cell.
+
+
+Then we need to Run each python code that contains in cell by clicking Run button or Ctrl+Enter key. 
+
+At last we need to run train function, Then the Evaluating process will be starts:
+Here i collected some different image data set. 
+
+If our client gave his required dataset means we can able to run with reference of this model..
+
