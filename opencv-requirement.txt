@@ -1,38 +1,38 @@
 
 
-   Install pip version:-
+## Install pip version:-
 
 >> python -m pip install --upgrade / pip==10.0.1
 
 
-   Install opencv-python 3.2.0 Ver. if python 3.5 version is avalable in sys:-
+## Install opencv-python 3.2.0 Ver. if python 3.5 version is avalable in sys:-
 
 >> pip install D:\opencv_python-3.2.0-cp35-cp35m-win_amd64.whl
 
    src code:- https://github.com/Azure/ImageSimilarityUsingCntk/blob/master/resources/python35_64bit_requirements/opencv_python-3.2.0-  cp35-cp35m-win_amd64.whl 
 
 
-   Install Visual Studio Community:-
+## Install Visual Studio Community:-
 
 >> https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15
 
 
-   Install opencv in Anaconda 3.6:-
+## Install opencv in Anaconda 3.6:-
 
 >> Anacinda3\scripts> conda install -c conda-forge opencv
 
 
-   Install Ad3 package:-  
+## Install Ad3 package:-  
 
 >> https://www.lfd.uci.edu/~gohlke/pythonlibs/ (Install ad3)
 
 
-   To uninstall all pkgs at single command.
+## To uninstall all pkgs at single command.
 
 >> pip freeze > requirements.txt
 >> pip uninstall -r requirements.txt -y
 
 
-   Not caching the previous installed modules.
+## Not caching the previous installed modules.
  
 >> --no-cache-dir
